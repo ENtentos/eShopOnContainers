@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # eShopOnContainers - Microservices Architecture and Containers based Reference Application (**BETA state** - Visual Studio and CLI environments compatible)
 Sample .NET Core reference application, powered by Microsoft, based on a simplified microservices architecture and Docker containers.
 
@@ -151,3 +152,6 @@ You can create new issues at the issues section, do pull requests and/or send em
 ## Questions
 [QUESTION] Answer +1 if the solution is working for you (Through VS or CLI environment):
 https://github.com/dotnet/eShopOnContainers/issues/107
+=======
+# eShopOnContainers
+>>>>>>> d547e45d60fc916165bafbe7625f29d16a70e65f
